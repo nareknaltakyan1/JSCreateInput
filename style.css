@@ -1,0 +1,87 @@
+
+
+
+.right,.left
+{
+  box-sizing:border-box;
+  width:50%;
+  min-height: 500px;
+  float:left;
+}
+
+
+
+
+body {
+  margin: 0px;
+	background-color: #292f43;
+}
+.register {
+  max-width: 1280px;
+  height: auto;
+  margin: 20px auto;
+}
+input {
+	width: 450px; 
+	height:45px;
+  border: none;
+  margin: 15px;
+ 	border: 1px solid #e1e1e1;
+ 	border-radius:4px;
+ 	padding-left:35px;
+ 	font-size:16px;
+ 	background-color:#FFFFFF!important;  
+}
+
+
+.ok-div
+{
+  height: 25px;
+  width: 75px;
+  background-color:#A3F14F;
+  /* margin-left: 20px; */
+  padding: 10px;
+  border-radius: 7px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+
+
+
+.ok-div-Input,.ok-div-Password,.ok-div-Button
+{
+  height: 25px;
+  width: 75px;
+  background-color:#A3F14F;
+  /* margin-left: 20px; */
+  padding: 10px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+
+.ok-div-show
+{
+  height: 25px;
+  width: 75px;
+  background-color:#A3F14F;
+  display: none;
+  padding: 10px;
+  border-radius: 7px;
+  margin-bottom: 15px;
+}
+
+
+select {
+  width: 80%;
+  padding: 25px 25px;
+  margin-left: 25px;
+  margin-top: 25px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+button{
+  width: 75px;
+  height: 40px;
+}
